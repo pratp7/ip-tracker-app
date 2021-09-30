@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 [
-- Solution URL: https://github.com/pratp7/ip-tracker-app
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL:  https://github.com/pratp7/ip-tracker-app
+- Live Site URL: https://ip-tracker-using-sawo.herokuapp.com/
 
 
 
