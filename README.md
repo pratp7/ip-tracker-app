@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 [
-- Solution URL: (https://github.com/pratp7/ip-address-sawo)
+- Solution URL: https://github.com/pratp7/ip-tracker-app
 - Live Site URL:(https://your-live-site-url.com)
 
 
