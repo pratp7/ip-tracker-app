@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+
+  button {
+    background-color: #ffde40;
+    border: none;
+    padding: 0.5rem 1rem;
+
+    &:hover,
+    &:active {
+      transform: scaleY(1.02);
+    }
+  }
+}

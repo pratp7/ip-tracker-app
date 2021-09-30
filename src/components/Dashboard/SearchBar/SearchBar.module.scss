@@ -1,0 +1,28 @@
+.search {
+  display: flex;
+  justify-content: center;
+
+  input {
+    background-color: white;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px 0 0 10px;
+    max-width: 20rem;
+    width: 50%;
+  }
+  button {
+    background-color: black;
+    padding: 1rem;
+    border: none;
+    border-radius: 0 10px 10px 0;
+
+    &:active {
+      transform: scaleX(1.1);
+    }
+  }
+}
+.error {
+  padding: 1rem;
+  color: white;
+  text-align: center;
+}

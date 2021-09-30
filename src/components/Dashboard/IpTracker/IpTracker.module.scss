@@ -1,0 +1,14 @@
+.info {
+  margin-bottom: -1rem;
+  text-align: center;
+  position: relative;
+  z-index: 1000;
+}
+
+@media all and (min-width: 600px) {
+  .info {
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: -2rem;
+  }
+}
