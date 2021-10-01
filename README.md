@@ -24,7 +24,6 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 ![alt text](src/screenshots/Login-desktop.png "Login desktop view")
-![alt text](src/screenshots/DashBoard-desktop.png "Dashboard desktop view")
 ![alt text](src/creenshots/login-mobile.png "Login mobile view")
 ![alt text](src/screenshots/DashBoard-active.png "active desktop view")
 ![alt text](src/screenshots/DashBoard-mobile.png "active mobile view")
