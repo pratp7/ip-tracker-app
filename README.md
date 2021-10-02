@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 [
 - Solution URL:  https://github.com/pratp7/ip-tracker-app
-- Live Site URL: https://ip-tracker-using-sawo.herokuapp.com/
+- Live Site URL: https://stupefied-kalam-135415.netlify.app/
 
 
 
